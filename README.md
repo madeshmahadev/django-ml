@@ -1,3 +1,4 @@
 # Titanic Survival Predictor 
 
-Use #python manage.py runserver to run the project
+To run the project, use
+#python manage.py runserver
